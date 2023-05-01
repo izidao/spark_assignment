@@ -1,0 +1,6 @@
+.idea
+__pycache__
+weather_csv
+restaurant_csv
+.DS_Store
+.ipynb_checkpoints/
